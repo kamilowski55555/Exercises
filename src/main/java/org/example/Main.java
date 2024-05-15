@@ -2,6 +2,12 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Recursion recursion = new Recursion();
+
+
+
+
+        System.out.println(recursion.test(5,10));
+
     }
 }
