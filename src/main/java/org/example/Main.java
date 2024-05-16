@@ -7,7 +7,7 @@ public class Main {
 
 
 
-        System.out.println(recursion.test(5,10));
+        System.out.println(recursion.factorial(4));
 
     }
 }
